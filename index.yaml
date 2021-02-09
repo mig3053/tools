@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  netshoot:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-02-09T02:29:53.273835402Z"
+    description: A Helm chart for Kubernetes
+    digest: 86607aa5c21ca01d6fe7d8a8a907b754c236b1c56a9401f42adf174633d9fdc5
+    name: netshoot
+    urls:
+    - https://github.com/mig3053/tools/releases/download/netshoot-0.1.0/netshoot-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-09T02:29:53.166903666Z"
